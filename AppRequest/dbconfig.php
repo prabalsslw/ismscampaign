@@ -1,9 +1,9 @@
 <?php
 	/*$user="pushapi";
-	$host="bulk.sslwireless.com";
-	$pass="Push138.ap1";
+	$host="";
+	$pass="";
 
-	$database="sslcare_db";
+	$database="";
 	mysql_connect($host,$user,$pass) or die(mysql_error());
 	mysql_select_db($database) or die(mysql_error());*/
 	
@@ -12,23 +12,23 @@
 //	$host = "localhost";
 //$user_id= "root";
 //$password = "";
-//	$db = "sslcare_db";
+//	$db = "";
 
 	
-//	$host = "192.168.181.17";
-//	$user_id= "sslcare_db";
-//	$password = "Ssl#124ljYfy6";
-//	$db = "sslcare_db";
+//	$host = "";
+//	$user_id= "";
+//	$password = "";
+//	$db = "";
 	
-	/*$host2 = "bulk.sslwireless.com";	
-	$user2= "pushapi";		
-	$pass2 = "Push138.ap1";	
-	$db2 = "sslcare_db";*/
+	/*$host2 = "";	
+	$user2= "";		
+	$pass2 = "";	
+	$db2 = "";*/
 
-	$host = "192.168.81.9";
-	$user_id= "stakecreate";
-	$password = "Ste#2lC3faTe";
-	$db = "sslcare_db";
+	$host = "";
+	$user_id= "";
+	$password = "";
+	$db = "";
 
   try {  
 	 //database connect
